@@ -6,4 +6,4 @@ AAST Android app
 
 test any thing
 
-ok
+no
